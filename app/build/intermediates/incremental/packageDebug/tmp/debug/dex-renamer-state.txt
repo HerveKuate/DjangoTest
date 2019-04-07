@@ -1,0 +1,4 @@
+#Mon Apr 08 01:03:36 CEST 2019
+base.0=X\:\\Herve\\Project\\DjangoTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

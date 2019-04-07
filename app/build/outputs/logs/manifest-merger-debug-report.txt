@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\0245f73f534ec025976c45651d924348\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\9308dc62ba57a146313c5effd144857c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\2ca1525355d84c3337886008e7bc1c44\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\106c326cac388eadce56adb2c347a28d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3ffc8c9ebfc7013b5602b268bd690d37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fc79e72fd3bf615fbef8bd696b7ab6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\72c905c48bb3884e839bcfe00cfa4c9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\5a69851b8a3b2b1951482ae95cf8f731\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\3062b1df6711aefed7697cbec9a444b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\c03cb5d402a52a099f90957b30b83cba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7f078df42eda01ec9ff24491e84e2551\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\85e8fb93038459d580dbbada044a1e45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\a28a7d473d58438ac8d4019dc3cd16ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\f15f853d59999b8f43c4a41050cbd987\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\82f1844f8053e56e654f783e220895ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\4bc0d4c2b26f884678e7359eece9ea49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\09e3b8909600e2486936505eb5d7b328\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\d8c0bad441816dca0bf0da1b5686dea6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\d02398d809f35da9ea0b3ee99acb5aea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\eddf5922fb3b0322c534246c67a02039\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\d59f5fe163b4a54da96d79edec1462fc\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\09137af0cd6487fbb31a09d48e2bc7ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\23bbec03eb80f913fd00d63df1fc7d79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\9148f82d2d5af752c5cfd775107f998a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\34fa3350273117df80fc00d671e088d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\f34840f8bc58ee56dd04fae8e7b9243c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\07656eb9bdcc765793d53eee8f51265a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\5ed5179e7e84d7e316033171c9ea7760\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b86ea3974d8a50b7877f0acade7ed6f6\AndroidManifest.xml:17:1-22:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\0245f73f534ec025976c45651d924348\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\0245f73f534ec025976c45651d924348\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\2ca1525355d84c3337886008e7bc1c44\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\2ca1525355d84c3337886008e7bc1c44\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\d59f5fe163b4a54da96d79edec1462fc\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\d59f5fe163b4a54da96d79edec1462fc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.djangotest.UserActivity
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:15:9-18:20
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:15:19-47
+activity#com.example.djangotest.MainActivity
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\0245f73f534ec025976c45651d924348\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\0245f73f534ec025976c45651d924348\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\9308dc62ba57a146313c5effd144857c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\9308dc62ba57a146313c5effd144857c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\2ca1525355d84c3337886008e7bc1c44\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\2ca1525355d84c3337886008e7bc1c44\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\106c326cac388eadce56adb2c347a28d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\106c326cac388eadce56adb2c347a28d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3ffc8c9ebfc7013b5602b268bd690d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\3ffc8c9ebfc7013b5602b268bd690d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fc79e72fd3bf615fbef8bd696b7ab6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fc79e72fd3bf615fbef8bd696b7ab6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\72c905c48bb3884e839bcfe00cfa4c9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\72c905c48bb3884e839bcfe00cfa4c9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\5a69851b8a3b2b1951482ae95cf8f731\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\5a69851b8a3b2b1951482ae95cf8f731\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\3062b1df6711aefed7697cbec9a444b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\3062b1df6711aefed7697cbec9a444b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\c03cb5d402a52a099f90957b30b83cba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\c03cb5d402a52a099f90957b30b83cba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7f078df42eda01ec9ff24491e84e2551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7f078df42eda01ec9ff24491e84e2551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\85e8fb93038459d580dbbada044a1e45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\85e8fb93038459d580dbbada044a1e45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\a28a7d473d58438ac8d4019dc3cd16ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\a28a7d473d58438ac8d4019dc3cd16ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\f15f853d59999b8f43c4a41050cbd987\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\f15f853d59999b8f43c4a41050cbd987\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\82f1844f8053e56e654f783e220895ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\82f1844f8053e56e654f783e220895ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\4bc0d4c2b26f884678e7359eece9ea49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\4bc0d4c2b26f884678e7359eece9ea49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\09e3b8909600e2486936505eb5d7b328\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\09e3b8909600e2486936505eb5d7b328\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\d8c0bad441816dca0bf0da1b5686dea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\d8c0bad441816dca0bf0da1b5686dea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\424415002a892d2ead08f310d023d38b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\d02398d809f35da9ea0b3ee99acb5aea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\d02398d809f35da9ea0b3ee99acb5aea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\eddf5922fb3b0322c534246c67a02039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\eddf5922fb3b0322c534246c67a02039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\d59f5fe163b4a54da96d79edec1462fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\d59f5fe163b4a54da96d79edec1462fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\09137af0cd6487fbb31a09d48e2bc7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\09137af0cd6487fbb31a09d48e2bc7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\23bbec03eb80f913fd00d63df1fc7d79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\23bbec03eb80f913fd00d63df1fc7d79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\9148f82d2d5af752c5cfd775107f998a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\9148f82d2d5af752c5cfd775107f998a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\34fa3350273117df80fc00d671e088d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\34fa3350273117df80fc00d671e088d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\f34840f8bc58ee56dd04fae8e7b9243c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\f34840f8bc58ee56dd04fae8e7b9243c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\07656eb9bdcc765793d53eee8f51265a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\07656eb9bdcc765793d53eee8f51265a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\5ed5179e7e84d7e316033171c9ea7760\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\5ed5179e7e84d7e316033171c9ea7760\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b86ea3974d8a50b7877f0acade7ed6f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Saikyouzero\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\b86ea3974d8a50b7877f0acade7ed6f6\AndroidManifest.xml:20:5-44
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		ADDED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Herve\Project\DjangoTest\app\src\main\AndroidManifest.xml
